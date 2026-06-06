@@ -1,103 +1,125 @@
-<h1 align="center">Hi 👋, I'm Achal Kashyap</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Achal%20Kashyap&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h3 align="center">🚀 B.Tech CSE Student | Web Developer | Python Learner | Future Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Web+Developer;Python+Programmer;Future+Full+Stack+Developer" />
-</p>
+# 👋 Hello, I'm Achal Kashyap
+
+### First Year B.Tech CSE Student • Web Developer • Python Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Projects;Learning+Python+Every+Day;Future+Full+Stack+Developer;Passionate+About+Technology" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 B.Tech CSE Student
+## 💫 About Me
+
+🎓 First Year B.Tech CSE Student
 
 💻 Passionate about Web Development
 
-🐍 Currently Learning Python
+🐍 Currently learning Python
 
 🌱 Exploring Full Stack Development
 
-🚀 Building Projects & Improving Every Day
+🚀 Building projects and improving daily
 
-⚡ Goal: Become a Skilled Software Engineer
+📚 Learning Data Structures & Algorithms
+
+🎯 Goal: Become a Professional Software Engineer
+
+📍 India
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Achal-kashyap&show_icons=true&theme=github_dark&hide_border=true"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achal-kashyap&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=Achal-kashyap&theme=github-dark-blue&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+## 🚀 Current Goals
+
+```text
+✓ Master Python
+✓ Improve Web Development Skills
+✓ Learn DSA
+□ Learn React
+□ Build Full Stack Projects
+□ Open Source Contributions
+□ Internship Experience
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 🌐 Portfolio Website
+Modern personal portfolio showcasing skills and projects.
+
+### 🎨 Landing Pages
+Responsive and aesthetic website designs.
+
+### 🐍 Python Projects
+Mini tools, automation scripts and beginner-friendly apps.
+
+### 📱 Future Full Stack Applications
+Projects currently under development.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://instagram.com/achal_kashyap_7">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-achal__kashyap__7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/Achal-kashyap">
+<img src="https://img.shields.io/badge/GitHub-Achal--kashyap-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Current Focus
+<div align="center">
 
-✅ Python Development
+### 💭 Developer Mindset
 
-✅ Data Structures & Algorithms
+> "Consistency, curiosity, and code — that's the path to growth."
 
-✅ Web Development
+</div>
 
-✅ Full Stack Development
-
-✅ Open Source Contributions
-
----
-
-<p align="center">
-  
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:1E293B,100:0EA5E9"/>
