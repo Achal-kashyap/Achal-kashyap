@@ -6,7 +6,7 @@
 
 ### First Year B.Tech CSE Student • Web Developer • Python Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Projects;Learning+Python+Every+Day;Future+Full+Stack+Developer;Passionate+About+Technology" />
+<img src="https://tenor.com/bxuUm.gif font=Poppins&weight=500&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Projects;Learning+Python+Every+Day;Future+Full+Stack+Developer;Passionate+About+Technology" />
 
 </div>
 
