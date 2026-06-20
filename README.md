@@ -131,7 +131,8 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=8b949e&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+🙌;Every+visit+means+a+lot+💙;Star+a+repo+if+you+like+it+⭐" alt="thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=8b949e&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+;Every+visit+means+a+lot+;Star+a+repo+if+you+like+it+" alt="thanks" />
+
 
 </div>
 
