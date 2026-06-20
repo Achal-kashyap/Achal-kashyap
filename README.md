@@ -4,15 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Achal%20Kashyap&fontSize=52&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE-AI%20%7C%20First%20Year&descSize=18&descAlignY=60&descAlign=50&descColor=8b949e" />
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Future+Full+Stack+Developer;🐍+Python+Learner;🤖+AI+%26+ML+Enthusiast;📡+Robotics+Explorer;💡+Problem+Solver+%7C+Builder;🎓+BTech+CSE-AI+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer;Python+Learner;AI+and+ML+Enthusiast;Robotics+Explorer;Problem+Solver;BTech+CSE-AI+Student" />
 
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=Achal-kashyap&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Achal-kashyap?label=🤝+Followers&style=for-the-badge&color=238636&labelColor=1a1a2e" />
-&nbsp;
 <img src="https://img.shields.io/badge/🌟_Open_to-Collaborate-ff6b6b?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
