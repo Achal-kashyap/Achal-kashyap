@@ -85,7 +85,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 | 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills & contact info | HTML, CSS, JavaScript |
 | 📡 **Radar System** | Built a functioning radar/sonar system using ultrasonic sensors & servo motors with live display | Arduino, C++, Processing |
 | 🛰️ **3d Space website** | 3d view of planets — rotating earth, solar system, facts | HTML, CSS,Javascript|
-| 🏎️ **RC car project** | Remote control car— forward-backward, left-right, obstacal ditector | Arduino Uno,Phython,Sensors|
+| 🏎️ **RC car project** | Remote control car— forward-backward, left-right, obstacal ditector | Arduino Uno , Phython,Sensors|
 | 🐍 **Python Projects** | Collection of Python scripts — automation, mini-games, utilities | Python |
 
 </div>
