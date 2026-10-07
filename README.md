@@ -142,13 +142,6 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 </p>
 
 
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achal-kashyap&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
-</div>
-
----
 
 ## 📬 Connect With Me
 
