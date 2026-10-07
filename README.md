@@ -108,6 +108,40 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 </div>
 ---
 
+---
+## 📈 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/contributions.light.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </picture>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+
 ## 📈 Activity Graph
 
 <div align="center">
