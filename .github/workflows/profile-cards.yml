@@ -12,20 +12,24 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
+    name: Generate Achal's 3D Contribution Graph
 
-      - name: Generate 3D Contribution Graph
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Achal-kashyap
 
-      - name: Commit and Push
+      - name: Save generated SVG files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "Update 3D contribution graph"; then
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 3D contribution graph"
             git push
           fi
