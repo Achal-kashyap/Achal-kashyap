@@ -137,7 +137,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Achal-kashyap/Achal-kashyap/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
