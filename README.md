@@ -115,9 +115,15 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 ---
 ## 📈 Contribution Activity
-<a href="https://achal-kashyap.github.io/Achal-kashyap/">
-  <img src="https://achal-kashyap.github.io/Achal-kashyap/preview.png" alt="Contributions" width="100%">
-</a>
+
+<p align="center">
+  <a href="https://achal-kashyash.github.io/Achal-kashyap/">
+    <img src="https://img.shields.io/badge/View_My_Contribution_Graph-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View My Contribution Graph">
+  </a>
+  &nbsp;
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="45" alt="Animated arrow">
+</p>
+
 
 ---
 
