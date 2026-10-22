@@ -117,7 +117,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://achal-kashyash.github.io/Achal-kashyap/">
+  <a href="https://achal-kashyap.github.io/Achal-kashyap/">
     <img src="https://img.shields.io/badge/View_My_Contribution_Graph-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View My Contribution Graph">
   </a>
   &nbsp;
