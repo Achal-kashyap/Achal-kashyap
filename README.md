@@ -69,9 +69,6 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Achal-kashyap&background=0D1117&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=30363D&border_radius=16&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achal-kashyap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 &nbsp;&nbsp;
 
 
