@@ -1,0 +1,40 @@
+name: Update contributions data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+  push:
+    paths:
+      - 'scripts/fetch-contributions.mjs'
+      - '.github/workflows/update-contributions.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          # Comma-separated repos whose commits should NOT count, e.g. "Achal-kashyap/Achal-kashyap"
+          # Set it in: Settings -> Secrets and variables -> Actions -> Variables -> EXCLUDE_REPOS
+          EXCLUDE_REPOS: ${{ vars.EXCLUDE_REPOS }}
+        run: node scripts/fetch-contributions.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contributions.json
+          git diff --cached --quiet || git commit -m "chore: update contributions data"
+          git push
