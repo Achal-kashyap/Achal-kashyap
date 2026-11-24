@@ -42,29 +42,29 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 ### Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="45" height="45">
-  <img src="https://cdn.simpleicons.org/C++/00599C" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/C++/00599C" width="45" height="45">&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;
-  <img src="https://cdn.simpleicons.org/Github/ffffff" width="45" height="45">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="45" height="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/Github/ffffff" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45">&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Exploring
 <p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45">
-  <img src="https://cdn.simpleicons.org/mySQL/4479A1" width="45" height="45">
-  <img src="https://cdn.simpleicons.org/Node.js/5FA04E" width="45" height="45">
-  <img src="https://cdn.simpleicons.org/TensorFlow/FF6F00" width="45" height="45">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mySQL/4479A1" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/Node.js/5FA04E" width="45" height="45">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/TensorFlow/FF6F00" width="45" height="45">&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
