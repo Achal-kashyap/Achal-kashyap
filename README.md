@@ -62,6 +62,13 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 </div>
 
+### ⚡ GitHub Statistics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Achal-kashyap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achal-kashyap&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+&nbsp;&nbsp
 ---
 
 ## 📊 GitHub Stats
