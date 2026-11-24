@@ -126,13 +126,13 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://achal-kashyap.github.io/Achal-kashyap/">
+  <a href="[https://achal-kashyap.github.io/Achal-kashyap/](https://3d-contributiongraph.vercel.app/)">
     <img src="https://img.shields.io/badge/View_My_Contribution_Graph-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View My Contribution Graph">
   </a>
   &nbsp;
   <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="45" alt="Animated arrow">
 </p>
-[![3D Contributions](https://achal-kashyap.github.io/contrib-3d/preview.png)](https://achal-kashyap.github.io/contrib-3d/)
+
 
 ---
 
