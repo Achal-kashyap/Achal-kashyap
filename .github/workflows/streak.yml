@@ -1,5 +1,5 @@
 
-name: Update GitHub Streak
+name: Generate GitHub Streak
 
 on:
   schedule:
@@ -8,8 +8,7 @@ on:
   workflow_dispatch:
 
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - "scripts/generate-streak.js"
       - ".github/workflows/streak.yml"
@@ -18,11 +17,11 @@ permissions:
   contents: write
 
 jobs:
-  update-streak:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v5
 
       - name: Setup Node.js
@@ -30,12 +29,12 @@ jobs:
         with:
           node-version: 24
 
-      - name: Generate GitHub Streak
+      - name: Generate Streak SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/generate-streak.js
 
-      - name: Save updated SVG
+      - name: Commit Streak SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -43,8 +42,8 @@ jobs:
           git add assets/streak.svg
 
           if git diff --cached --quiet; then
-            echo "SVG is already up to date."
+            echo "No changes found"
           else
-            git commit -m "Update GitHub streak stats"
-            git push
+            git commit -m "Update GitHub streak"
+            git push origin main
           fi
